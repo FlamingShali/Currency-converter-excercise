@@ -13,4 +13,4 @@ Project includes:
 
 I didn't do any errors handlers here since the basic part of this chalenge was just creating simple value converter.
 
-In future i am going to improve this converter adding new currencies and also styling some to make better impression.
+In future i am going to improve this converter adding new currencies and also styling some to make better impression. This will be added in different repo
